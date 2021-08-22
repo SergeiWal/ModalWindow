@@ -1,3 +1,7 @@
+button{
+    margin: 2px;
+}
+
 .vmodal {}
 
 .vmodal.open .modal-overlay,
@@ -79,6 +83,6 @@
 }
 
 .modal-footer {
-    padding: 5px 10px;
+    padding: 10px 10px;
     border-top: 1px solid #eee;
 }
